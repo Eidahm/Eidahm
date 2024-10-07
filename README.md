@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container"> 
         <h1>حاسبة تكلفة التصميم</h1>
         <label for="projectType">نوع المشروع:</label>
         <select id="projectType">
